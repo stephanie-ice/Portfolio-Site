@@ -44,21 +44,33 @@
 }
 
 .title {
-    color:#4aaaa5;
+    margin: 0 auto;
+    border: none;
+    padding: 20 px;
     text-align: left;
-    text-size: 14;
     font: Arial;
-}
+    font-size: 14;
+    color:#4aaaa5;
+}    
 
 .content2 {
     float: left;
-    margin: 0;
+    margin: 0 auto;
+    border: none;
+    padding: none;
     text-align: justify;
-    text-size: 12;
     font: Arial;
-    font-color:#777777;
+    font-size: 12;
+    color:#777777;
 }
 
 .input {
-    
+    float: none;
+    margin: 0 auto;
+    border: none;
+    padding: 20px;
+    text-align: left;
+    font: Arial;
+    font-size: 12;
+    color: #777777;
 }
